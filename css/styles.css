@@ -1,3 +1,7 @@
+html{
+    --accent-color: #1abc9c;;
+}
+
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
@@ -13,7 +17,7 @@ p {
 }
 
 .bg-1 {
-    background-color: #1abc9c;
+    background-color: var(--accent-color);
     /* Green */
     color: #ffffff;
 }
@@ -53,4 +57,22 @@ p {
 
 .navbar-nav li a:hover {
     color: #1abc9c !important;
+}
+
+.work-tile{
+    flex: w 0 45%;
+    opacity: 70%;  
+    position: relative; 
+}
+
+.work-tile:hover{
+    opacity: 100%;
+}
+
+.work-tile img{
+    object-fit: fill;
+    height: 100%;
+    width: 100%;
+    min-width: 260;
+    border: 5px solid var(--accent-color);
 }

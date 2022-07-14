@@ -116,7 +116,8 @@ span[data-descr]:hover::after {
     z-index: 1;
 }
 
-.who{
-    padding-left: 40px;
-    padding-right: 40px;
+.title::before{
+    content: 'soon to be ';
+    font-size: 8px;
+    color: #474e5d;
 }

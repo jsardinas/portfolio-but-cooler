@@ -76,3 +76,16 @@ p {
     min-width: 260;
     border: 5px solid var(--accent-color);
 }
+
+.horizontal-footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0px;
+}
+
+.horizontal-footer ul li a{
+    text-decoration: none;
+    color: white;
+}

@@ -17,7 +17,7 @@ Links to previous work (all complted during the bootcamp)
 - Note Depot: Full stack application to take notes and share them with other users.
 - Tech blog: Technology blog where users can login, create posts and comments.
 - Note Taker: Full stack application that allows the user to take personal notes.
-- Know before u Go: Informative website that shows you the air quality index and other usefull information about a city.
+- Know before u Go: Informative website that shows you the air quality index and other useful information about a city.
 - Weather dashboard: Simple appliction that uses third-party API to get weather information about a city.
 - Work Day Scheduler: Simple application that allows the user to plan a work day using local storage.
 - Code Quiz: Exactly that, an app that quizes the user on web development knowledge.

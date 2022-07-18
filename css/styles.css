@@ -122,3 +122,6 @@ span[data-descr]:hover::after {
     color: #474e5d;
 }
 
+.repo{
+    font-size: small;
+}
